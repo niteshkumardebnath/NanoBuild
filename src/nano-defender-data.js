@@ -22,7 +22,7 @@ exports.chromium = {
  * @const {Object}
  */
 exports.firefox = {
-    id: "{6ea144f3-db99-47f4-9a1d-815e8b3944d1}",
+    id: "{be5b33ab-bfd7-44fc-b54c-b9654587233d}",
 };
 
 /**
